@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.1-dev-20150306-5afe4d1" sequence="1" timestamp="1624165084510" analysisTimestamp="1624165084144" release="">
+  <Project projectName="180110910715">
+    <Jar>D:\web\sword-finger-master-04d4d0ba8f27020267d8251efd70889ed3957da3\sword-finger-master-04d4d0ba8f27020267d8251efd70889ed3957da3\build\classes</Jar>
+    <AuxClasspathEntry>D:\web\sword-finger-master-04d4d0ba8f27020267d8251efd70889ed3957da3\sword-finger-master-04d4d0ba8f27020267d8251efd70889ed3957da3\build\classes</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\web\sword-finger-master-04d4d0ba8f27020267d8251efd70889ed3957da3\sword-finger-master-04d4d0ba8f27020267d8251efd70889ed3957da3\WebContent\WEB-INF\lib\commons-dbutils-1.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\web\sword-finger-master-04d4d0ba8f27020267d8251efd70889ed3957da3\sword-finger-master-04d4d0ba8f27020267d8251efd70889ed3957da3\WebContent\WEB-INF\lib\core-3.4.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\web\sword-finger-master-04d4d0ba8f27020267d8251efd70889ed3957da3\sword-finger-master-04d4d0ba8f27020267d8251efd70889ed3957da3\WebContent\WEB-INF\lib\javase-3.4.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\web\sword-finger-master-04d4d0ba8f27020267d8251efd70889ed3957da3\sword-finger-master-04d4d0ba8f27020267d8251efd70889ed3957da3\WebContent\WEB-INF\lib\mysql-connector-java-5.1.48.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\web\sword-finger-master-04d4d0ba8f27020267d8251efd70889ed3957da3\sword-finger-master-04d4d0ba8f27020267d8251efd70889ed3957da3\WebContent\WEB-INF\lib\taglibs-standard-impl-1.2.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\web\sword-finger-master-04d4d0ba8f27020267d8251efd70889ed3957da3\sword-finger-master-04d4d0ba8f27020267d8251efd70889ed3957da3\WebContent\WEB-INF\lib\taglibs-standard-spec-1.2.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\annotations-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\catalina-ant.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\catalina-ha.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\catalina-ssi.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\catalina-storeconfig.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\catalina-tribes.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\catalina.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\ecj-4.17.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\el-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\jasper-el.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\jasper.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\jaspic-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\jsp-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\servlet-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\tomcat-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\tomcat-coyote.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\tomcat-dbcp.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\tomcat-i18n-cs.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\tomcat-i18n-de.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\tomcat-i18n-es.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\tomcat-i18n-fr.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\tomcat-i18n-ja.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\tomcat-i18n-ko.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\tomcat-i18n-pt-BR.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\tomcat-i18n-ru.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\tomcat-i18n-zh-CN.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\tomcat-jdbc.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\tomcat-jni.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\tomcat-util-scan.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\tomcat-util.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\tomcat-websocket.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Apache\apache-tomcat-9.0.41\lib\websocket-api.jar</AuxClasspathEntry>
+    <SrcDir>D:\web\sword-finger-master-04d4d0ba8f27020267d8251efd70889ed3957da3\sword-finger-master-04d4d0ba8f27020267d8251efd70889ed3957da3\src</SrcDir>
+    <Cloud id="edu.umd.cs.findbugs.cloud.doNothingCloud" online="false"></Cloud>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Sat, 19 Jun 2021 19:55:55 +0800" total_classes="0" referenced_classes="14" total_bugs="0" total_size="0" num_packages="0" java_version="15.0.1" vm_version="15.0.1+9-18" cpu_seconds="1.05" clock_seconds="0.37" peak_mbytes="487.77" alloc_mbytes="2048.00" gc_seconds="0.05">
+    <FindBugsProfile>
+      <ClassProfile name="de.tobject.findbugs.builder.FindBugs2Eclipse" totalMilliseconds="131" invocations="2" avgMicrosecondsPerInvocation="65999" maxMicrosecondsPerInvocation="116608" standardDeviationMircosecondsPerInvocation="50609"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="71" invocations="228" avgMicrosecondsPerInvocation="313" maxMicrosecondsPerInvocation="58678" standardDeviationMircosecondsPerInvocation="3878"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="29" invocations="229" avgMicrosecondsPerInvocation="129" maxMicrosecondsPerInvocation="988" standardDeviationMircosecondsPerInvocation="164"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="21" invocations="14" avgMicrosecondsPerInvocation="1556" maxMicrosecondsPerInvocation="14978" standardDeviationMircosecondsPerInvocation="3788"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History>
+    <AppVersion sequence="0" timestamp="1624165084510" release="" codeSize="0" numClasses="0"/>
+  </History>
+</BugCollection>
